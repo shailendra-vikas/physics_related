@@ -1,0 +1,11 @@
+* Determine the Minimum mass.
+-- python theory/tables.py
+-- Make a file in data folder.
+
+* Calculate the cross correlation using the minimun mass.
+-- from the python theory/hod_model.py
+-- Make the data folder.
+
+* Calculate the best fit of the theory data.
+-- creates a best fit file and plots
+
